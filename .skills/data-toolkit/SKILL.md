@@ -1,0 +1,23 @@
+---
+name: data-toolkit
+description: CSV·엑셀 등 표 자료의 구조와 품질을 살펴보고 목적에 맞게 분석·가공·검증할 때 사용합니다.
+---
+
+# 표 자료 살펴보기와 분석
+
+표 자료를 자세히 살펴보거나 분석을 검토할 때 이 스킬 폴더 기준 `references/upstream/knowledge-work-plugins/data/skills/explore-data/SKILL.md`와 `references/upstream/knowledge-work-plugins/data/skills/validate-data/SKILL.md`를 각각 읽고 목적에 필요한 확인을 적용한다. 원본의 데이터베이스·SQL·연결 도구는 실제로 사용할 수 있을 때만 활용하며, 모든 항목을 수강생에게 강요하지 않는다. 원본과 라이선스는 로컬에 보존한다.
+
+사용자의 목표와 원하는 결과를 듣고, 사용 가능한 자료·도구와 확인 범위를 살핀다. 방법이 불분명하면 필요한 항목만 질문하고, 예를 들어 필요한 열만 골라 정리하기, 조건에 맞는 행 찾기, 간단한 비교표 만들기와 각 결과를 제안한다. 하나 또는 여러 방법을 고르거나 다른 방법을 요청할 수 있다. 목표와 방법이 이미 분명하면 다시 고르게 하지 않는다.
+
+## 자료 확인과 첫 결과
+
+1. `instructions/자료_마련과_저장.md`에 따라 원본과 분석용 자료를 구분해 저장하고, 읽을 수 있는지 확인한 뒤 분석한다.
+2. 실제 읽은 범위에서 열 이름·의미, 값의 형식, 날짜·단위, 빈 값과 중복 등 목표에 필요한 사항을 살핀다. 예외가 곧 오류라고 단정하지 않는다. 뜻이 불명확한 열이나 확인되지 않은 값은 질문하거나 `[확인 필요]`로 남긴다. 자료에 없는 수치를 만들지 않는다.
+3. 사용자가 고른 기준과 범위에 따라 필요한 자료를 고르거나 정리하고 분석한다. 사실과 해석을 구분하고, 집계는 대상·기간·단위·기준을 밝힌다. 계산 값과 선택한 행·열을 대표 원본과 대조할 수 있게 보여 준다.
+4. 필요하면 정리한 CSV, 비교표, 보고서나 대시보드 중 목적에 맞는 결과를 만든다. 기존 엑셀을 맞추는 요청에는 시트·열·서식·수식과 변경할 위치를 실제 확인하고, 파일을 다룰 수 있는 도구와 보존 가능 범위를 확인한다. 확인할 수 없는 수식·서식·연결은 알린다. 결과는 저장 지침에 따라 `outputs/`에 남긴다.
+
+사용자에게 AI가 확인한 범위와 직접 원본을 확인할 부분을 알린다. 새 자료가 들어와 기존 결과를 다시 만들 때는 `.skills/update-workflow/SKILL.md`를 참고한다. 엑셀 안의 자동화 방법을 물으면 현재 환경에 맞는 방법을 설명하되, 직접 조작을 요청받았고 실제 가능한 경우가 아니면 조작했다고 주장하지 않는다.
+
+참고한 자료: Anthropic [Data Analyst Plugin](https://github.com/anthropics/knowledge-work-plugins/blob/main/data/README.md). 데이터 탐색·결과 검증의 흐름을 CSV·엑셀을 사용하는 수강생과 현재 작업공간의 저장 규칙에 맞게 정리했다.
+
+**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [anthropics/knowledge-work-plugins: data](https://github.com/anthropics/knowledge-work-plugins/tree/main/data), Apache License, Version 2.0. The upstream `explore-data` and `validate-data` skills and connector guidance are preserved under `references/upstream/knowledge-work-plugins/data/`; see the original [LICENSE](references/upstream/knowledge-work-plugins/data/LICENSE). The local workflow adapts data exploration and validation to CSV, Excel, and the learner's chosen outcome.

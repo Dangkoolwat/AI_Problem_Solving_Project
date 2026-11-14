@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Application Advisor"
+  short_description: "Review resumes, research employers, and guide career decisions"
+  default_prompt: "Use $career-application-advisor to review my resume, match a target role, and assess the employer."
