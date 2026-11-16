@@ -10,3 +10,4 @@
 | 작업명 | 상태 | 마지막 날짜 | 결과 위치 | 로그 위치 | 다음 행동 |
 | --- | --- | --- | --- | --- | --- |
 | 문서(docs) 정리와 대안 제시 지침 보강 | 완료 | 2026-11-15 | docs/00_시작하기.md, docs/01_사례집.md, docs/cases/(34개), docs/reference/(5개), AGENTS.md(4·8절), instructions/문제해결_과정.md, instructions/워크플로우_구성과_재사용.md, instructions/방법_메뉴.md, .skills/humanize-korean/, .skills/thinking-toolkit/, .skills/learning-toolkit/, 취업·직장 상황별 안내 14개 | agents_logs/2026-11-14-Claude-Fable-5.2/progress-log.md | 사례 요청문 실제 시험, 시험 키트 기준선 측정, 수강생 배포 전 색인 비우기 |
+| README 프로젝트 소개 보완 | 완료 | 2026-11-16 | README.md | agents_logs/2026-11-16-GPT-6/progress-log.md | 에이전트 동작과 수업 사용성 확인 |
