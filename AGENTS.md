@@ -82,7 +82,7 @@
 | 여러 단계의 워크플로우를 구성·실행하거나 저장해 재사용할 때 | `instructions/워크플로우_구성과_재사용.md` |
 | 어떤 방법을 제안할지 고르거나 여러 스킬을 엮을 때, 맞는 스킬이 없는 고민일 때 | `instructions/방법_메뉴.md` |
 | 고민·계획을 진단하거나, 큰 문제를 나누고, 아이디어를 넓히고, 관점·선택지·위험·할 일 순서를 살필 때 | `.skills/thinking-toolkit/SKILL.md` |
-| 전공 원서·강의·자격증·새 업무를 공부하며 이해·암기·문제 풀이·복습을 도울 때 | `.skills/learning-toolkit/SKILL.md` |
+| 전공 원서·강의·자격증·새 업무를 공부하며 이해·암기·문제 풀이·복습·시험 연습을 도울 때 | `.skills/learning-toolkit/SKILL.md` |
 | 개인 목표·실행 계획·습관을 정하거나 돌아볼 때 | `.skills/goal-achievement-toolkit/SKILL.md` |
 | 행사·서비스·사업·업무 개선 기획안과 제안서를 만들거나 검토할 때 | `.skills/planning-toolkit/SKILL.md` |
 | 작업에 필요한 자료를 찾거나 가져올 때 | `instructions/자료_마련과_저장.md` |

@@ -1,6 +1,6 @@
 ---
 name: learning-toolkit
-description: 성인 학습자가 전공 원서·강의·자격증·새 업무를 공부할 때 이해, 암기, 문제 풀이, 복습에 맞는 학습 방법을 골라 함께 적용합니다.
+description: 성인 학습자가 전공 원서·강의·자격증·새 업무를 공부할 때 이해, 암기, 문제 풀이, 복습, 시험 연습에 맞는 학습 방법을 골라 함께 적용합니다.
 ---
 
 # 공부 도구 상자
@@ -8,6 +8,8 @@ description: 성인 학습자가 전공 원서·강의·자격증·새 업무를
 복학생·대학생·수험생·직장인처럼 스스로 공부하는 성인을 돕는다. 대신 공부해 주는 것이 아니라, 지금 막힌 곳에 맞는 방법을 제안하고 함께 해 본다. 무엇을 공부하는지와 어디서 막혔는지를 한 번에 1~2개씩 묻고, 이미 말한 내용은 다시 묻지 않는다.
 
 방법을 2~3개 보여 주고 맞아 보이는 하나를 의견과 이유로 먼저 밝힌다. 고르는 사람은 사용자다. 방법 이름을 외우게 하지 않고, 얻는 결과를 먼저 말한다. 사용자에게 "시각형", "암기형" 같은 유형을 붙이지 않는다. 한 번 해 본 뒤 맞았는지 묻고, 맞지 않으면 다른 방법으로 바꾼다.
+
+방법 파일의 진행 단계는 기본 절차일 뿐 정해진 순서가 아니다. 사용자의 선택과 상황에 따라 단계를 줄이거나 바꾸거나 건너뛰고, 여러 방법을 섞고, 하나만 해 본 채 멈춰도 된다. 사용자가 평소 쓰는 공부 방식이 있으면 그것이 먼저다. 메뉴에 없는 방법도 상황에 맞으면 제안할 수 있고, 어떻게 진행할지는 에이전트가 판단해 이유와 함께 알린다. 아래 "지킬 것"(근거, 보장하지 않기, 시험·과제 관련 주의 등)은 방법을 바꿔도 바꾸지 않는다.
 
 ## 상황별 안내 메뉴
 
@@ -20,11 +22,12 @@ description: 성인 학습자가 전공 원서·강의·자격증·새 업무를
 | 비슷한 개념이 헷갈린다 | `references/03_나란히_놓고_비교하기.md` | 같은 점·다른 점 표, 맞는 예와 아닌 예 |
 | 이해했는지 확신이 없다 | `references/04_내_말로_설명해_보기.md` | 빈틈과 헷갈린 부분 |
 | 문제를 못 풀겠다 | `references/05_힌트를_받으며_풀기.md` | 단계별 힌트와 내가 쓴 풀이 |
-| 왜 틀리는지 모르겠다 | `references/06_틀린_문제_돌아보기.md` | 틀린 이유의 종류와 다시 풀 문제 |
-| 외울 것이 많다, 기억에 남기고 싶다 | `references/07_문제로_꺼내_보기.md` | 문제, 내 답, 근거가 붙은 채점 |
+| 왜 틀리는지, 어느 개념이 약한지 모르겠다 | `references/06_틀린_문제_돌아보기.md` | 틀린 이유의 종류, 개념별 상태, 다시 풀 문제 |
+| 외울 것이 많다, 기억에 남기고 싶다 | `references/07_문제로_꺼내_보기.md` | 수준을 고른 문제, 내 답, 근거가 붙은 채점 |
 | 며칠 지나면 잊는다 | `references/08_간격을_두고_다시_보기.md` | 복습 기록과 오늘 다시 볼 것 |
 | 유형이 바뀌면 못 푼다 | `references/09_섞어서_풀기.md` | 여러 단원을 섞은 문제 묶음 |
-| 시험이 다가온다 | `references/10_시험_범위로_점검하기.md` | 약한 단원 목록과 남은 기간의 순서 |
+| 시험이 다가온다 | `references/10_시험_범위로_점검하기.md` | 시험 지도, 약한 단원 목록, 남은 기간의 순서 |
+| 시험처럼 한 번에 풀어 보고 싶다 | `references/11_모의고사_풀기.md` | 근거가 붙은 채점, 감점 주제표 |
 
 어떤 방법을 이어 쓰면 좋을지는 `references/대상별_조합_예시.md`에 있다. 전공 원서, 자격증 시험, 새로 맡은 업무의 예가 들어 있다.
 
@@ -51,4 +54,4 @@ description: 성인 학습자가 전공 원서·강의·자격증·새 업무를
 
 공부 계획과 습관은 `.skills/goal-achievement-toolkit/SKILL.md`, 자료를 찾는 일은 `.skills/research-toolkit/SKILL.md`, 정리한 내용을 남에게 전하는 일은 `.skills/clear-summary/SKILL.md`를 함께 쓴다.
 
-**Source attribution** (not a license declaration for this local skill): explanation levels and the self-explanation check were adapted from the project owner's own site, AI Learning Studio [설명 수준 바꾸기](https://studio.daangcool.net/prompt-snippets/change-level/); page text was not copied. The other methods (retrieval practice, spaced review, interleaving, error review, guided hints, compare-and-contrast, outline-first reading) are widely known study techniques written here for this workspace from the project owner's notes; no source files were copied. See `.skills/SOURCES.md`.
+**Source attribution** (not a license declaration for this local skill): explanation levels and the self-explanation check were adapted from the project owner's own site, AI Learning Studio [설명 수준 바꾸기](https://studio.daangcool.net/prompt-snippets/change-level/); page text was not copied. The other methods (retrieval practice, spaced review, interleaving, error review, guided hints, compare-and-contrast, outline-first reading) are widely known study techniques written here for this workspace from the project owner's notes; no source files were copied. The mock-exam method, the concept-status check, the question-level ladder in retrieval practice, and the exam-map layout were written from the project owner's (Jin SangHyouk) own exam-preparation ideas, originally drafted as prompts for Google NotebookLM. See `.skills/SOURCES.md`.

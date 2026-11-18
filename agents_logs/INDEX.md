@@ -11,3 +11,4 @@
 | --- | --- | --- | --- | --- | --- |
 | 문서(docs) 정리와 대안 제시 지침 보강 | 완료 | 2026-11-15 | docs/00_시작하기.md, docs/01_사례집.md, docs/cases/(34개), docs/reference/(5개), AGENTS.md(4·8절), instructions/문제해결_과정.md, instructions/워크플로우_구성과_재사용.md, instructions/방법_메뉴.md, .skills/humanize-korean/, .skills/thinking-toolkit/, .skills/learning-toolkit/, 취업·직장 상황별 안내 14개 | agents_logs/2026-11-14-Claude-Fable-5.2/progress-log.md | 사례 요청문 실제 시험, 시험 키트 기준선 측정, 수강생 배포 전 색인 비우기 |
 | README 프로젝트 소개 보완 | 완료 | 2026-11-16 | README.md | agents_logs/2026-11-16-GPT-6/progress-log.md | 에이전트 동작과 수업 사용성 확인 |
+| learning-toolkit 시험 연습 방법 추가(모의고사, 개념 상태 나누기, 문제 수준) | 완료 | 2026-11-18 | .skills/learning-toolkit/(11번 신규, 06·07·10, SKILL.md), README.md, AGENTS.md, instructions/방법_메뉴.md, docs/(사례집, 공부 1·2·3, 참고 2개), .skills/SOURCES.md, instructor/test_kit/(시험 5 신설, 카드 P11~13, 시험 3·4 보강) | agents_logs/2026-11-18-Claude-Sonnet-5.5/progress-log.md | 시험 키트 기준선 측정(사용자), 5분 복습 시트와 확인 문답 반영 여부 결정 |
