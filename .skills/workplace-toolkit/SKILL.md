@@ -26,6 +26,7 @@ description: 회의 전 준비, 회의록, 업무 자료, 고객 의견을 정�
 | 회의·면담에 들어가기 전에 준비하고 싶다 | `references/situations/11_회의_전_준비.md` | 한눈에 보기와 할 일·알아 둘 것·조심할 것 |
 | 문서·표의 수치를 서로 대조하고 싶다 | `.skills/evidence-check/SKILL.md` | 일치·차이·확인 필요 목록 |
 | CSV·엑셀 자료를 분석하고 싶다 | `.skills/data-toolkit/SKILL.md` | 정리·분석 결과 |
+| 협조 요청·사내 안내·도입 제안처럼 읽는 사람의 행동을 이끌고 싶다 | `.skills/persuasion-writing/SKILL.md` | 공감부터 행동까지 6단계 글, 설득 약점 점검 |
 
 회의 정리, 업무 소통·답장, 기간별 보고 작업은 `references/공개_원본_활용_기준.md`에서 해당 공개 원본 경로를 찾아 읽는다. 출처와 라이선스는 `.skills/SOURCES.md`에 있다.
 

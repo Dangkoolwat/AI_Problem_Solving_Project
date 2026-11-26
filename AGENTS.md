@@ -80,6 +80,7 @@
 | 고민을 해결하거나 결과를 개선할 때 | `instructions/문제해결_과정.md` |
 | 사용자에게 방향·방법·후속 조치를 선택지로 물을 때 | `instructions/선택지_제시_방식.md` |
 | 여러 단계의 워크플로우를 구성·실행하거나 저장해 재사용할 때 | `instructions/워크플로우_구성과_재사용.md` |
+| `.skills/`에 새 스킬을 추가하거나 스킬의 쓰임·연결을 바꿀 때 | `instructions/스킬_추가_점검.md` |
 | 어떤 방법을 제안할지 고르거나 여러 스킬을 엮을 때, 맞는 스킬이 없는 고민일 때 | `instructions/방법_메뉴.md` |
 | 고민·계획을 진단하거나, 큰 문제를 나누고, 아이디어를 넓히고, 관점·선택지·위험·할 일 순서를 살필 때 | `.skills/thinking-toolkit/SKILL.md` |
 | 전공 원서·강의·자격증·새 업무를 공부하며 이해·암기·문제 풀이·복습·시험 연습을 도울 때 | `.skills/learning-toolkit/SKILL.md` |
@@ -96,6 +97,7 @@
 | 기업·산업이나 관심 주제의 자료를 찾아 조사할 때 | `.skills/research-toolkit/SKILL.md` |
 | 여러 문서·표의 주장이나 수치를 서로 대조할 때 | `.skills/evidence-check/SKILL.md` |
 | 분석·비교·보고 결과의 핵심을 쉽게 전달할 때 | `.skills/clear-summary/SKILL.md` |
+| 모집글·소개글·안내문·제안서·협조나 참여를 부탁하는 메일처럼 읽는 사람의 행동(신청·참여·승인·회신)을 이끄는 글을 쓰거나 설득력을 점검할 때 | `.skills/persuasion-writing/SKILL.md` |
 | 인포그래픽의 구성·이미지 제작이나 수정을 도울 때 | `.skills/infographic-toolkit/SKILL.md` |
 | 글 다듬기를 요청받거나 이력서·자소서·보고서·메일 등 제출용 문장을 만들 때 | `.skills/humanize-korean/SKILL.md` |
 
