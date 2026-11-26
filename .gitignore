@@ -4,3 +4,9 @@
 instructor/
 agents_logs/*
 !agents_logs/안내.md
+source/*
+!source/안내.md
+data/*
+!data/안내.md
+outputs/*
+!outputs/안내.md

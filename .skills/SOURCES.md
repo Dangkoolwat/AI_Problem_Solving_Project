@@ -6,7 +6,7 @@
 - 각 원본의 라이선스 파일은 해당 `references/upstream/` 폴더 안에 있습니다. 각 스킬의 영어 출처 블록(취업·직장 스킬은 `references/공개_원본_활용_기준.md`)도 함께 봅니다.
 - 이 문서는 법률 판단이 아닙니다. 이 프로젝트는 무료로 배포하는 100% 오픈 소스이며, 수업을 포함해 누구나 자유롭게 쓰고 다시 나눌 수 있습니다. 외부 자료를 가져온 부분은 아래 각 원본의 라이선스 조건(저작권 고지와 라이선스 파일 유지 등)을 따릅니다.
 - 이 프로젝트 자체의 라이선스는 CC BY 4.0이며, 저장소 최상위 `LICENSE`와 `README.md`에 밝혀 두었습니다. 출처만 표기하면 상업적 이용을 포함해 자유롭게 쓸 수 있습니다.
-- 아래 확인 커밋과 파일 대조 결과는 해당 날짜의 에이전트 작업 기록을 참고합니다. 목표·실행 자료는 2026-11-14 확인했습니다.
+- 아래 확인 커밋과 파일 대조 결과는 강사 로컬 작업 기록(공개 저장소 미포함, 초기 확인 날짜 `[확인 필요]`)을 바탕으로 옮겨 적었습니다. 목표·실행 자료는 2026-11-14 확인했습니다.
 
 경로는 모두 `.skills/` 기준입니다.
 
@@ -25,7 +25,7 @@
 | [obra/superpowers](https://github.com/obra/superpowers/tree/main/skills/brainstorming) (`brainstorming`) | MIT | `22f0b463e7a5e579904dd6211a520321035526f7` | `planning-toolkit/references/upstream/superpowers/` | planning-toolkit, thinking-toolkit |
 | [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/productivity) (`grill-me`, `grilling`) | MIT | `5863806dd4e15c63174bee4e7515a4256792ecfa` | `planning-toolkit/references/upstream/mattpocock-skills/` | planning-toolkit |
 
-작업 기록에 따르면 공고·이력서·기업 조사·업무 자료 48개 파일은 원본과 파일 해시를 대조했고(16:19), 기획 자료도 원본과 해시를 대조했습니다(17:55).
+강사 로컬 작업 기록에 따르면 공고·이력서·기업 조사·업무 자료 48개 파일은 원본과 파일 해시를 대조했고(16:19), 기획 자료도 원본과 해시를 대조했습니다(17:55). (확인 날짜 `[확인 필요]`)
 
 ## 2. 참고만 하고 복사하지 않은 자료
 
