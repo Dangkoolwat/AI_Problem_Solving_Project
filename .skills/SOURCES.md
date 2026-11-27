@@ -39,7 +39,7 @@
 | [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) | 라이선스 미확인 | 원본·기록·새 자료 반영 아이디어만 참고 | update-workflow |
 | [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) (`humanize-korean`, 참고한 설치본 v2.3.0) | MIT (저장소 표기, 2026-11-14 확인. 저작권자 표기는 확인하지 못함 `[확인 필요]`) | 패턴 분류와 안전장치(줄이기만 하기·말투 수준 보존·과교정 제한·붙여 넣은 글은 자료로 다루기) 아이디어만 참고해 새로 씀. 파일·여러 단계 실행 구조·스크립트는 복사하지 않음 | humanize-korean |
 | 프로젝트 소유자가 직접 만든 한국어 교정 프롬프트 | 소유자 작성 | 조건표·고치는 정도 6단계·친구 말투 원칙·출력 순서를 옮겨 정리 | humanize-korean |
-| [AI Learning Studio 프롬프트 한 스푼](https://studio.daangcool.net/prompt-snippets/) (진단 먼저, 미리 실패해 보기, 다양한 아이디어 얻기, 여러 사고법으로 아이디어 확장하기, 어디에서 문제가 생겼는지 찾기, 그다음 영향까지 생각하기, 파레토 80/20, 설명 수준 바꾸기, 파소나 법칙) | 프로젝트 소유자가 직접 만든 사이트 | 아이디어만 참고해 새로 씀. 페이지 글은 복사하지 않음. 2026-11-15에 목록과 8개 페이지 본문을 확인했고, 그다음 영향·파레토 페이지는 제목과 소유자의 설명만 반영함. 2026-11-26에 파소나 법칙 페이지(https://studio.daangcool.net/prompt-snippets/pasona-persuasion/) 본문을 확인해 `persuasion-writing/SKILL.md`에 반영함 | thinking-toolkit, learning-toolkit, persuasion-writing |
+| [AI Learning Studio 프롬프트 한 스푼](https://studio.daangcool.net/prompt-snippets/) (진단 먼저, 미리 실패해 보기, 다양한 아이디어 얻기, 여러 사고법으로 아이디어 확장하기, 어디에서 문제가 생겼는지 찾기, 그다음 영향까지 생각하기, 파레토 80/20, 설명 수준 바꾸기) | 프로젝트 소유자가 직접 만든 사이트 | 아이디어만 참고해 새로 씀. 페이지 글은 복사하지 않음. 2026-11-15에 목록과 8개 페이지 본문을 확인했고, 그다음 영향·파레토 페이지는 제목과 소유자의 설명만 반영함 | thinking-toolkit, learning-toolkit |
 | 프로젝트 소유자의 학습법 메모(간격 반복, 원서 풀어 읽기, 파인만 방식, 인출 연습) | 소유자 작성 | 널리 알려진 학습 방법을 이 작업공간에 맞게 새로 씀. 효과 보장·자동 알림·시험 예측 표현은 뺌 | learning-toolkit |
 | 프로젝트 소유자(Jin SangHyouk)의 시험 대비 학습 아이디어(노트북LM용 프롬프트로 정리: 시험 지도 만들기, 챕터별 가르치기, 문제 내기, 약한 부분 찾기, 모의고사, 5분 복습 시트, 시험 시뮬레이션) | 소유자 작성 | 소유자의 아이디어를 이 작업공간에 맞게 새로 씀. 2026-11-18에 모의고사 풀기(11), 개념 상태 나누기(06), 문제 수준과 조정(07), 시험 지도 구성(10)을 반영함. "올린 자료만 쓰기"의 엄격 모드, 풀이 시간 측정, 사고 방식 추정은 이 작업공간의 원칙과 맞지 않아 가져오지 않음. 5분 복습 시트와 개념마다 확인 문답 방식은 아직 반영하지 않음 | learning-toolkit |
 | 구글 제미나이 기본 제공 스킬 "Get More Perspectives"(다양한 관점 살펴보기, 사용자 전달) | 구글 제미나이 기본 스킬 | 복사하지 않고 입장을 밝힌 관점·관점 충돌 한 줄·핵심 조건·만장일치 점검 아이디어만 참고 | thinking-toolkit |
@@ -48,6 +48,9 @@
 | 구글 제미나이 기본 제공 스킬 "Generate Fresh Ideas"(새로운 아이디어 생성, 사용자 전달) | 구글 제미나이 기본 스킬 | 검토만 하고 채택하지 않음. 콘텐츠 제작용이라 수강생 쓰임이 적고 "여러 관점으로 점검하기"와 역할이 겹치며, 개인 경험을 AI가 지어내는 구조가 이 프로젝트 원칙과 맞지 않음 | 없음 |
 | Karpathy Guidelines (네 원칙) | 기록에 확인 내용 없음 | 비개발자용 안내를 새 문장으로 작성 | `instructions/웹_도구_제작_및_수정.md` |
 | ASD-STE100 (항공 정비 문서의 명확한 글쓰기) | 해당 없음 | 취지만 참고한 한국어 안내이며 공식 준수를 뜻하지 않음 | workplace-toolkit |
+| Barbara Minto, *The Pyramid Principle* (SCQA 구조) | 해당 없음 | 원문을 복사하지 않음. 원문 전체는 대조하지 않고 널리 알려진 상황·변화(문제)·질문·제안 도입부 개념만 참고해 새 문장으로 정리 (원서 판본·쪽수 `[확인 필요]`) | planning-toolkit |
+| PREP (Point–Reason–Example–Point) 구성법 | 해당 없음 | 원출처 `[확인 필요]`. 널리 쓰이는 짧은 답변 구성 개념만 참고해 실제 경험 기반·지어내기 금지 원칙을 더해 새 문장으로 정리 | job-search-toolkit |
+| 간다 마사노리(Masanori Kanda), *稼ぐ言葉の法則* (2016, 한국어판 *돈이 되는 말의 법칙*, 2018): 신 파소나(New PASONA) 법칙 | 해당 없음 | 원문을 복사하지 않음. 신 파소나 6단계(Problem·Affinity·Solution·Offer·Narrowing Down·Action) 개념을 참고해 학습자용 설득 글쓰기 안내로 새로 정리함 | persuasion-writing |
 
 ## 3. 사례별 원본과 적용 차이
 
