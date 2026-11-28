@@ -51,6 +51,9 @@
 | Barbara Minto, *The Pyramid Principle* (SCQA 구조) | 해당 없음 | 원문을 복사하지 않음. 원문 전체는 대조하지 않고 널리 알려진 상황·변화(문제)·질문·제안 도입부 개념만 참고해 새 문장으로 정리 (원서 판본·쪽수 `[확인 필요]`) | planning-toolkit |
 | PREP (Point–Reason–Example–Point) 구성법 | 해당 없음 | 원출처 `[확인 필요]`. 널리 쓰이는 짧은 답변 구성 개념만 참고해 실제 경험 기반·지어내기 금지 원칙을 더해 새 문장으로 정리 | job-search-toolkit |
 | 간다 마사노리(Masanori Kanda), *稼ぐ言葉の法則* (2016, 한국어판 *돈이 되는 말의 법칙*, 2018): 신 파소나(New PASONA) 법칙 | 해당 없음 | 원문을 복사하지 않음. 신 파소나 6단계(Problem·Affinity·Solution·Offer·Narrowing Down·Action) 개념을 참고해 학습자용 설득 글쓰기 안내로 새로 정리함 | persuasion-writing |
+| Center for Creative Leadership (CCL), SBI(Situation–Behavior–Impact) 피드백 모델 | 해당 없음 | 원문을 복사하지 않음. 널리 알려진 상황·관찰된 행동·미친 영향 3단계 개념을 참고해 비개발자용 피드백·수정 요청 안내로 독립 작성 (원문 발행 연도·세부 자료 `[확인 필요]`) | workplace-toolkit |
+| 긍정적 거절(Positive No) 개념 | 해당 없음 | 원문을 복사하지 않음. William Ury, *The Power of a Positive No* (2007)의 Yes–No–Yes 구조에서 착안. 확인·공감 → 한계·사유 → 대안 흐름은 이 프로젝트에서 새로 정리 (판본·쪽수 `[확인 필요]`) | workplace-toolkit |
+| KPT(Keep–Problem–Try) 회고 틀 | 해당 없음 | 원출처 `[확인 필요]`. 원문을 복사하지 않고 널리 쓰이는 유지·아쉬운 점·다음 시도 3칸 회고 개념을 참고해 프로젝트·업무 회고 안내로 독립 작성 | workplace-toolkit |
 
 ## 3. 사례별 원본과 적용 차이
 

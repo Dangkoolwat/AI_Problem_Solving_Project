@@ -41,6 +41,7 @@ description: 모집글·소개글·안내문·제안서·협조나 참여를 부
 
 - **기획을 잡거나 논리적 첫머리를 열 때:** 무엇을 할지(내용·대상·실행)부터 정하거나 논리적 배경·문제의식으로 기획서 첫머리를 열어야 하면 `.skills/planning-toolkit/SKILL.md`를 먼저 쓰고, 공감으로 참여·승인을 이끌 때 이 스킬을 쓴다.
 - **받은 메일에 답할 때:** 받은 메일에 답하거나 상황만 알리면 `.skills/workplace-toolkit/references/situations/06_답장_초안.md`를 쓴다. 이 스킬은 먼저 보내서 협조·참여·승인을 받아야 할 때 쓴다.
+- **작업물 수정 요청·부탁 거절을 할 때:** 상대가 만든 것에 수정을 부탁하거나 협업 피드백을 줄 때는 `.skills/workplace-toolkit/references/situations/12_피드백_수정요청.md`, 받은 부탁을 거절하거나 일정·범위를 조율할 때는 `13_거절_일정조율.md`를 쓴다. 이 스킬은 내가 먼저 참여·협조·승인을 이끌 때 쓴다.
 - **쓰기 전:** 독자 입장의 질문과 걱정을 먼저 살피려면 `.skills/thinking-toolkit/references/05_다른_관점에서_보기.md`를 참고한다.
 - **초안 뒤:** 문장의 어색한 표현과 번역투만 줄이려면 `.skills/humanize-korean/SKILL.md`로 이어서 다듬는다.
 - **짧은 요약·보고가 필요할 때:** 설득 흐름보다 빠른 의사결정·핵심 전달이 목적이면 `.skills/clear-summary/SKILL.md`나 `.skills/workplace-toolkit/SKILL.md`의 보고 구성을 먼저 고려한다.

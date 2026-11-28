@@ -92,7 +92,7 @@
 | 파일 생성·수정, 저장·인계·작업 보고를 할 때 | `instructions/파일_저장_및_인계.md` |
 | 대시보드·웹 도구·코드를 만들거나 고칠 때 | `instructions/웹_도구_제작_및_수정.md` |
 | 채용공고·이력서·자기소개서·면접 고민을 다룰 때 | `.skills/job-search-toolkit/SKILL.md` |
-| 회의 준비·정리, 업무 자료 정리나 보고서를 작성할 때 | `.skills/workplace-toolkit/SKILL.md` |
+| 회의 준비·정리, 업무 자료 정리, 보고서, 동료 작업물 피드백·수정 요청, 부탁 거절·일정 조율, 회고를 작성할 때 | `.skills/workplace-toolkit/SKILL.md` |
 | CSV·엑셀 같은 표 자료를 살펴보거나 분석할 때 | `.skills/data-toolkit/SKILL.md` |
 | 새 자료를 반영해 이전 분석이나 결과물을 갱신할 때 | `.skills/update-workflow/SKILL.md` |
 | 기업·산업이나 관심 주제의 자료를 찾아 조사할 때 | `.skills/research-toolkit/SKILL.md` |
