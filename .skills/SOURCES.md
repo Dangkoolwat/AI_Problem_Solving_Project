@@ -88,3 +88,59 @@
 ## 5. 목표·실행 스킬 적용 차이 (2026-11-14)
 
 공개 스킬 원문은 변경 없이 보관하고 해당 상황에만 읽는다. SMART의 숫자·공개 약속, 습관의 고정 기간·횟수, WOOP 카드 형식은 강제하지 않는다. WOOP의 내적 장애물과 별도로 외부 조건도 살피며 사용자 선택을 우선한다. GROW 원본의 고정 약속·점수와 OKR 원본의 팀·분기·점수 기준은 강제하지 않는다. 만다라트·배우는 목표·역산 계획·If–Then·새 출발 효과·유혹 묶기·돌아보기는 공개 방법 설명과 연구를 바탕으로 `goal-achievement-toolkit/references/방법별_활용.md`에 독립 작성했으며 각 출처를 해당 항목에 남겼다. WOOP 방법은 [공식 안내](https://woopmylife.org/en/practice)도 참고했다. 기존 목표 설정 후보 microclaw는 검색 결과의 스킬 자체 라이선스가 proprietary로 표시되고 현재 원문 주소가 열리지 않아 복사하지 않았다. 2026-11-14 보강: 배우는 목표(Seijts·Latham 2005), 새 출발 효과(Dai 외 2014), 유혹 묶기(Milkman 외 2014)를 추가했고, 논문은 초록·공개 요약 범위만 확인했으며 원문 전체는 읽지 않았다 `[확인 필요]`. 역산 계획 링크는 Park·Lu·Hedgcock(2017) APS 페이지로, 만다라트 링크 설명은 기관명 없이 중립 표기로 바꾸었다.
+
+## 6. 스킬별 출처 블록 (2026-11-28 각 SKILL.md에서 옮김)
+
+스킬을 쓸 때마다 함께 읽히는 분량을 줄이려고, 각 스킬의 `SKILL.md` 끝에 있던 출처·라이선스 문단을 내용을 바꾸지 않고 이 절로 옮겼습니다. 각 `SKILL.md`에는 이 절의 해당 항목을 가리키는 한 줄만 남겼습니다. 바꾼 것은 상대 링크와, 이 문서를 가리키던 "See `.skills/SOURCES.md`." 문장뿐입니다. 상대 링크는 이 문서 위치(`.skills/`) 기준으로 고쳤고, 그 문장은 해당 스킬이 실제로 나오는 2절을 가리키도록 "See section 2 of this document."로 바꿨습니다. 머리말의 "각 스킬의 영어 출처 블록"은 이제 이 절과 `job-search-toolkit`·`workplace-toolkit`의 `references/공개_원본_활용_기준.md`를 뜻합니다.
+
+### data-toolkit
+
+참고한 자료: Anthropic [Data Analyst Plugin](https://github.com/anthropics/knowledge-work-plugins/blob/main/data/README.md). 데이터 탐색·결과 검증의 흐름을 CSV·엑셀을 사용하는 수강생과 현재 작업공간의 저장 규칙에 맞게 정리했다.
+
+**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [anthropics/knowledge-work-plugins: data](https://github.com/anthropics/knowledge-work-plugins/tree/main/data), Apache License, Version 2.0. The upstream `explore-data` and `validate-data` skills and connector guidance are preserved under `references/upstream/knowledge-work-plugins/data/`; see the original [LICENSE](data-toolkit/references/upstream/knowledge-work-plugins/data/LICENSE). The local workflow adapts data exploration and validation to CSV, Excel, and the learner's chosen outcome.
+
+### evidence-check
+
+**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [anthropics/knowledge-work-plugins: validate-data](https://github.com/anthropics/knowledge-work-plugins/tree/main/data/skills/validate-data), Apache License, Version 2.0. Its analysis validation workflow is preserved with the [original license](data-toolkit/references/upstream/knowledge-work-plugins/data/LICENSE) in `data-toolkit`. This local skill adapts applicable checks to comparison across documents and data.
+
+### humanize-korean
+
+**Source attribution and license** (for the referenced source, not a license declaration for this local skill): [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) (`humanize-korean`), MIT License. Its pattern categories and guards (subtract-only edits, register preservation, over-editing limit, treating pasted text as data) were consulted and rewritten for learners; upstream files, its multi-step orchestration, and its scripts were not copied. The condition table, editing strength levels, casual-speech rules, and output order come from the project owner's own editing prompt. See section 2 of this document.
+
+### learning-toolkit
+
+**Source attribution** (not a license declaration for this local skill): explanation levels and the self-explanation check were adapted from the project owner's own site, AI Learning Studio [설명 수준 바꾸기](https://studio.daangcool.net/prompt-snippets/change-level/); page text was not copied. The other methods (retrieval practice, spaced review, interleaving, error review, guided hints, compare-and-contrast, outline-first reading) are widely known study techniques written here for this workspace from the project owner's notes; no source files were copied. The mock-exam method, the concept-status check, the question-level ladder in retrieval practice, and the exam-map layout were written from the project owner's (Jin SangHyouk) own exam-preparation ideas, originally drafted as prompts for Google NotebookLM. See section 2 of this document.
+
+### persuasion-writing
+
+**Source attribution** (not a license declaration for this local skill): the New PASONA 6-step framework originates from Masanori Kanda (*稼ぐ言葉の法則*, 2016; Korean ed. *돈이 되는 말의 법칙*, 2018); book text was not copied and the guidance was written independently for learners. See section 2 of this document.
+
+### planning-toolkit
+
+**Source attribution and licenses** (for the referenced sources, not a license declaration for this local skill):
+
+- [obra/superpowers](https://github.com/obra/superpowers), MIT License. Copyright (c) 2025 Jesse Vincent. The upstream brainstorming skill is preserved under `references/upstream/superpowers/`; see the original [LICENSE](planning-toolkit/references/upstream/superpowers/LICENSE). The local workflow adapts context gathering, questions, and comparison of approaches.
+- [mattpocock/skills](https://github.com/mattpocock/skills), MIT License. Copyright (c) 2026 Matt Pocock. The upstream `grill-me` and `grilling` skills are preserved under `references/upstream/mattpocock-skills/`; see the original [LICENSE](planning-toolkit/references/upstream/mattpocock-skills/LICENSE). The local workflow adapts assumption and decision checks to optional, respectful discussion.
+- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills), CC BY-NC-SA 4.0. General discovery and planning ideas were consulted; upstream files were not copied. Check the source license and its author’s terms before copying or distributing its content.
+- [anthropics/skills: doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring): context gathering, iterative drafting, and reader review were consulted; upstream files were not copied. A license for this specific skill was not established in this review.
+
+### research-toolkit
+
+**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [watermud-hr/career-application-advisor](https://github.com/watermud-hr/career-application-advisor), MIT License. Copyright (c) 2026 Career Application Advisor contributors. The complete upstream skill is preserved under `references/upstream/career-application-advisor/`; see the original [LICENSE](research-toolkit/references/upstream/career-application-advisor/LICENSE). The local workflow adapts employer and role research, source evaluation, and questions for verification.
+
+### thinking-toolkit
+
+참고한 자료: AI Learning Studio [프롬프트 한 스푼](https://studio.daangcool.net/prompt-snippets/), [먼저 진단받기](https://studio.daangcool.net/prompt-snippets/diagnose-first/), [미리 실패했다고 생각해 보기](https://studio.daangcool.net/prompt-snippets/pre-mortem/); Superpowers [brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md), [writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md); AI Learning Studio [다양한 아이디어 얻기](https://studio.daangcool.net/prompt-snippets/get-ideas/), [여러 사고법으로 아이디어 확장하기](https://studio.daangcool.net/prompt-snippets/multi-angle-expansion/), [어디에서 문제가 생겼는지 찾기](https://studio.daangcool.net/prompt-snippets/find-problem/), [그다음 영향까지 생각하기](https://studio.daangcool.net/prompt-snippets/second-order-effect/), [파레토 80/20](https://studio.daangcool.net/prompt-snippets/pareto-priority/); 구글 제미나이 기본 제공 스킬 "Get More Perspectives"(다양한 관점 살펴보기)와 "Focus My Energy"(에너지 효율 최적화). 위 방법은 수강생의 대화와 선택에 맞게 정리했다.
+
+**Source attribution and licenses** (for the referenced sources, not a license declaration for this local skill):
+
+- [obra/superpowers](https://github.com/obra/superpowers), MIT License. Copyright (c) 2025 Jesse Vincent. Brainstorming and planning ideas were adapted; the upstream brainstorming skill and its [original license](planning-toolkit/references/upstream/superpowers/LICENSE) are preserved in `planning-toolkit`. The upstream writing-plans skill was consulted but not copied.
+- [AI Learning Studio: 프롬프트 한 스푼](https://studio.daangcool.net/prompt-snippets/): the project owner's own site. Diagnostic, pre-mortem, idea generation (SCAMPER, audience shift), reframing, bottleneck-finding, second-order effect, and Pareto-view ideas were adapted with the owner's direction; page text was not copied. The Pareto step follows the owner's described use (define the problem, split it into smaller problems, sort them by importance).
+- Google Gemini built-in skill "Get More Perspectives" (provided by the user): the ideas of committed stances, a clash line between viewpoints, one key condition, and a unanimity check were adapted into "여러 관점으로 점검하기". License/terms: Google Gemini built-in skill (구글 제미나이 기본 스킬), as designated by the user; the original text was not copied, and the persona set, vote tally, Google app integration, and roster-editing mode were not adopted.
+- Google Gemini built-in skill "Focus My Energy" (구글 제미나이 기본 스킬, provided by the user): the ideas of matching task weight (deep / steady / light) to current condition, one recommendation at a time, a today's-deadline override with a short starter step, and a guilt-free tone were adapted into "지금 할 일 하나 고르기". The original text was not copied; time-of-day or calendar-based energy guessing, energy-profile storage, chronotype labels, and Google app dependence were not adopted.
+
+### update-workflow
+
+참고한 자료: Andrej Karpathy [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). 원본·기록·연결을 바탕으로 새 자료를 통합하는 아이디어를, 사용자가 요청한 결과물 갱신과 이전 결과 보존에 맞게 정리했다.
+
+**Source attribution** (not a license declaration for this local skill): Andrej Karpathy, [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). The local workflow was informed by its distinction between sources, linked knowledge, and updates; the source file was not copied. A license was not established in this review.

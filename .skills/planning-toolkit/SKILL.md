@@ -35,9 +35,4 @@ description: 서비스·행사·사업 제안·업무 개선 등 다양한 기�
 
 문서 공동 작성의 맥락 정리·점진적 초안·독자 관점 확인은 [Anthropic doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring)을 참고했다. 문제·가설·대안·확인 방법은 [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)의 조사·기획 흐름을 참고해 범용 기획으로 정리했다. 해당 원본은 이 폴더에 복사하지 않았으며 도구 로딩이나 사용을 가정하지 않는다.
 
-**Source attribution and licenses** (for the referenced sources, not a license declaration for this local skill):
-
-- [obra/superpowers](https://github.com/obra/superpowers), MIT License. Copyright (c) 2025 Jesse Vincent. The upstream brainstorming skill is preserved under `references/upstream/superpowers/`; see the original [LICENSE](references/upstream/superpowers/LICENSE). The local workflow adapts context gathering, questions, and comparison of approaches.
-- [mattpocock/skills](https://github.com/mattpocock/skills), MIT License. Copyright (c) 2026 Matt Pocock. The upstream `grill-me` and `grilling` skills are preserved under `references/upstream/mattpocock-skills/`; see the original [LICENSE](references/upstream/mattpocock-skills/LICENSE). The local workflow adapts assumption and decision checks to optional, respectful discussion.
-- [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills), CC BY-NC-SA 4.0. General discovery and planning ideas were consulted; upstream files were not copied. Check the source license and its author’s terms before copying or distributing its content.
-- [anthropics/skills: doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring): context gathering, iterative drafting, and reader review were consulted; upstream files were not copied. A license for this specific skill was not established in this review.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `planning-toolkit` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

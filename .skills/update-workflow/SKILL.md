@@ -16,6 +16,4 @@ description: 새 자료가 들어왔거나 최신 상태를 다시 확인할 때
 
 자동 감시·예약 실행·외부 알림은 이 과정만으로 시작되지 않는다. 실제 도구·권한과 사용자의 지시를 확인하고, 예약이나 전달이 필요한 경우 별도로 준비한다. 필요하면 표 자료는 `.skills/data-toolkit/SKILL.md`, 취업·업무는 해당 툴킷과 함께 사용한다.
 
-참고한 자료: Andrej Karpathy [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). 원본·기록·연결을 바탕으로 새 자료를 통합하는 아이디어를, 사용자가 요청한 결과물 갱신과 이전 결과 보존에 맞게 정리했다.
-
-**Source attribution** (not a license declaration for this local skill): Andrej Karpathy, [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). The local workflow was informed by its distinction between sources, linked knowledge, and updates; the source file was not copied. A license was not established in this review.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `update-workflow` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

@@ -17,4 +17,4 @@ description: 보고서·회의 기록·표 자료 등 여러 자료의 핵심 �
 - 오탈자나 논리적 빈틈이 요청 범위에 있으면 근거를 붙여 제안한다. 계약서 등 법률 문서는 확인할 조항과 질문을 정리할 수 있으나 법적 효력이나 위험을 확정하지 않고 필요한 경우 전문가 검토를 안내한다.
 - 사용자가 원문과 중요한 수치·문맥을 직접 확인하도록 돕는다. 결과는 저장 지침에 따라 `outputs/`에 남기고 원본을 보존한다. AI의 비교는 사람이 확인했다는 뜻이 아니다. 새 자료를 반영할 때는 `.skills/update-workflow/SKILL.md`를 참고한다.
 
-**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [anthropics/knowledge-work-plugins: validate-data](https://github.com/anthropics/knowledge-work-plugins/tree/main/data/skills/validate-data), Apache License, Version 2.0. Its analysis validation workflow is preserved with the [original license](../data-toolkit/references/upstream/knowledge-work-plugins/data/LICENSE) in `data-toolkit`. This local skill adapts applicable checks to comparison across documents and data.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `evidence-check` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

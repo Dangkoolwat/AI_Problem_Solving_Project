@@ -54,4 +54,4 @@ description: 성인 학습자가 전공 원서·강의·자격증·새 업무를
 
 공부 계획과 습관은 `.skills/goal-achievement-toolkit/SKILL.md`, 자료를 찾는 일은 `.skills/research-toolkit/SKILL.md`, 정리한 내용을 남에게 전하는 일은 `.skills/clear-summary/SKILL.md`를 함께 쓴다.
 
-**Source attribution** (not a license declaration for this local skill): explanation levels and the self-explanation check were adapted from the project owner's own site, AI Learning Studio [설명 수준 바꾸기](https://studio.daangcool.net/prompt-snippets/change-level/); page text was not copied. The other methods (retrieval practice, spaced review, interleaving, error review, guided hints, compare-and-contrast, outline-first reading) are widely known study techniques written here for this workspace from the project owner's notes; no source files were copied. The mock-exam method, the concept-status check, the question-level ladder in retrieval practice, and the exam-map layout were written from the project owner's (Jin SangHyouk) own exam-preparation ideas, originally drafted as prompts for Google NotebookLM. See `.skills/SOURCES.md`.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `learning-toolkit` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

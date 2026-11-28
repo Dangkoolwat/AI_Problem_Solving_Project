@@ -46,4 +46,4 @@ description: 모집글·소개글·안내문·제안서·협조나 참여를 부
 - **초안 뒤:** 문장의 어색한 표현과 번역투만 줄이려면 `.skills/humanize-korean/SKILL.md`로 이어서 다듬는다.
 - **짧은 요약·보고가 필요할 때:** 설득 흐름보다 빠른 의사결정·핵심 전달이 목적이면 `.skills/clear-summary/SKILL.md`나 `.skills/workplace-toolkit/SKILL.md`의 보고 구성을 먼저 고려한다.
 
-**Source attribution** (not a license declaration for this local skill): the New PASONA 6-step framework originates from Masanori Kanda (*稼ぐ言葉の法則*, 2016; Korean ed. *돈이 되는 말의 법칙*, 2018); book text was not copied and the guidance was written independently for learners. See `.skills/SOURCES.md`.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `persuasion-writing` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

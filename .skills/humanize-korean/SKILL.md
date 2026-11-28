@@ -74,4 +74,4 @@ description: 글의 뜻·사실·말투를 지키면서 번역투, 겹친 피동
 
 이 파일과 `references/`의 내용을 ChatGPT의 프로젝트 지침, Gemini의 Gem, 다른 폴더의 `AGENTS.md`에 넣으면 같은 방식의 다듬기를 다른 도구에서도 쓸 수 있다. 5절의 저장 규칙은 이 작업공간 전용이므로 빼고 쓴다.
 
-**Source attribution and license** (for the referenced source, not a license declaration for this local skill): [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) (`humanize-korean`), MIT License. Its pattern categories and guards (subtract-only edits, register preservation, over-editing limit, treating pasted text as data) were consulted and rewritten for learners; upstream files, its multi-step orchestration, and its scripts were not copied. The condition table, editing strength levels, casual-speech rules, and output order come from the project owner's own editing prompt. See `.skills/SOURCES.md`.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `humanize-korean` 항목에 있다. 출처를 확인해야 할 때만 읽는다. 이 스킬을 다른 도구로 옮길 때는 그 항목도 함께 옮긴다.

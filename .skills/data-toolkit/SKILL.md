@@ -18,6 +18,4 @@ description: CSV·엑셀 등 표 자료의 구조와 품질을 살펴보고 목�
 
 사용자에게 AI가 확인한 범위와 직접 원본을 확인할 부분을 알린다. 새 자료가 들어와 기존 결과를 다시 만들 때는 `.skills/update-workflow/SKILL.md`를 참고한다. 엑셀 안의 자동화 방법을 물으면 현재 환경에 맞는 방법을 설명하되, 직접 조작을 요청받았고 실제 가능한 경우가 아니면 조작했다고 주장하지 않는다.
 
-참고한 자료: Anthropic [Data Analyst Plugin](https://github.com/anthropics/knowledge-work-plugins/blob/main/data/README.md). 데이터 탐색·결과 검증의 흐름을 CSV·엑셀을 사용하는 수강생과 현재 작업공간의 저장 규칙에 맞게 정리했다.
-
-**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [anthropics/knowledge-work-plugins: data](https://github.com/anthropics/knowledge-work-plugins/tree/main/data), Apache License, Version 2.0. The upstream `explore-data` and `validate-data` skills and connector guidance are preserved under `references/upstream/knowledge-work-plugins/data/`; see the original [LICENSE](references/upstream/knowledge-work-plugins/data/LICENSE). The local workflow adapts data exploration and validation to CSV, Excel, and the learner's chosen outcome.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `data-toolkit` 항목에 있다. 출처를 확인해야 할 때만 읽는다.

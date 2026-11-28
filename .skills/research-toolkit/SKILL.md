@@ -16,4 +16,4 @@ description: 기업·산업·관심 주제를 필요한 자료로 조사하고 �
 
 새 자료를 이전 결과에 반영할 때 `.skills/update-workflow/SKILL.md`를 참고한다. 실제 검색·접근·콘텐츠 생성 기능은 환경에 따라 다르며, 이 스킬이 예약 수집이나 자동 검증을 수행한다고 주장하지 않는다.
 
-**Source attribution and license** (for the upstream material, not a license declaration for this local skill): [watermud-hr/career-application-advisor](https://github.com/watermud-hr/career-application-advisor), MIT License. Copyright (c) 2026 Career Application Advisor contributors. The complete upstream skill is preserved under `references/upstream/career-application-advisor/`; see the original [LICENSE](references/upstream/career-application-advisor/LICENSE). The local workflow adapts employer and role research, source evaluation, and questions for verification.
+출처와 라이선스는 `.skills/SOURCES.md` 6절의 `research-toolkit` 항목에 있다. 출처를 확인해야 할 때만 읽는다.
